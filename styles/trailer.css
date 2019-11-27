@@ -1,0 +1,16 @@
+body {
+   
+    background: #296695 url(https://www.slantmagazine.com/wp-content/uploads/2019/07/bluevelvet2019br-1000x600.jpg) repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.youtube {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
